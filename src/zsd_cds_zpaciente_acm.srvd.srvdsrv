@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for entity zpaciente'
+define service Zsd_cds_zpaciente_acm {
+  expose zcds_zpaciente_acm;
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZMCL_MENSAJES_ACM</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Clase de mensajes migracion</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMCL_MENSAJES_ACM</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Ha habido un error al eliminar el registro</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMCL_MENSAJES_ACM</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Ha habido un error al crear el registro</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZMCL_MENSAJES_ACM</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>No existe centro con el id introducido</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
